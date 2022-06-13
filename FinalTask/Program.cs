@@ -7,3 +7,4 @@ Console.WriteLine("Введенные Вами слова: ");
 for (int i = 0; i < size.Length; i++) {
     Console.WriteLine(size[i]);
 }
+
